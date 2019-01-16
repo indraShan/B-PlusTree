@@ -1,8 +1,7 @@
 # B-PlusTree
 C++ based implementation of a B+ Tree.
 
-This code implements a memory resident B+ Tree that supports duplicate keys.  In addition to insertion and search, the implementation also supports range queries.  
-(Implemented as a part of an assignment at UFL, Gainesville)  
+This code implements a memory resident B+ Tree that supports duplicate keys.  In addition to insertion and search, the implementation also supports range queries.
 
 
 #### Implemented methods:  
